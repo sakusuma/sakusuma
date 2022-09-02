@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGfd6NXNmHSog/profile-displaybackgroundimage-shrink_350_1400/0/1604135532551?e=1667433600&v=beta&t=_D6kgIqS_38mKJYJ0q83oZlKwf6KyDPA2rcqYcAwzDM)](https://www.linkedin.com/in/saikirankusumanchi/)
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
-<h3 align="center">Data Scientist with 6+ years of experience in Data domain. As a Data Scientist with Microsoft, I have worked on providing visibility and optimizing processes and costs across Microsoft Devices Supply Chain.</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakusuma&label=Profile%20views&color=0e75b6&style=flat" alt="sakusuma" /> </p>
