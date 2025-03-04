@@ -9,7 +9,7 @@
 
 🔭 I’m currently working with **Microsoft Devices Data Science Team**
 
-🌱 I’m currently learning **Deep Learning**
+🌱 I’m currently learning **AI Agents**
 
 👨‍💻 All of my projects are available at [https://github.com/sakusuma](https://github.com/sakusuma)
 
