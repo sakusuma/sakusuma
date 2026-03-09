@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/saikikusumanchi" target="blank"><img src="https://img.shields.io/twitter/follow/saikikusumanchi?logo=twitter&style=for-the-badge" alt="saikikusumanchi" /></a> </p>
 
-🔭 I’m currently working with **Microsoft Devices Data Science Team**
+🔭 I’m currently working with **Microsoft Teams Core Science Team**
 
-🌱 I’m currently learning **AI Agents**
+🌱 I’m currently learning **AI Agents - Memory**
 
 👨‍💻 All of my projects are available at [https://github.com/sakusuma](https://github.com/sakusuma)
 
 📝 I regularly write articles on [https://www.linkedin.com/in/saikirankusumanchi/](https://www.linkedin.com/in/saikirankusumanchi/)
 
-💬 Ask me about **Machine Learning**
+💬 Ask me about **Machine Learning, Gen AI**
 
 📫 How to reach me **sai.kiran567@gmail.com**
 
